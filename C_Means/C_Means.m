@@ -8,4 +8,4 @@ line(fcmdata(index1,1),fcmdata(index1,2),'linestyle','none','marker','x','color'
 line(fcmdata(index2,1),fcmdata(index2,2),'linestyle','none','marker','x','color','r');
 hold on
 plot(center(1,1),center(1,2),'ko','markersize',10,'LineWidth',2)
-plot(center(2,1),center(2,2),'ko','markersize',10,'LineWidth',2)
+plot(center(2,1),center(2,2),'ko','markersize',10,'LineWidth',2c
